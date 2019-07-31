@@ -1,0 +1,18 @@
+package day2.mite;
+
+public class bubble {
+	
+public static void sort()
+{
+	
+}
+	
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+String[] orgs= {"birlasoft","ZOHO","Amazon","TCS"};
+Selection.sort(orgs);
+
+
+	}
+
+}

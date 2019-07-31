@@ -1,0 +1,18 @@
+package day2.mite;
+
+public class BestSort {
+	
+	public static void perform(double[] alpha)
+	{
+		
+	}
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		double[] mobile = {13450.3,7890.7,89000.3,217800.6};
+		BestSort.perform(mobile,0);
+
+	}
+
+}
