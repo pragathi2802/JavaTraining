@@ -1,0 +1,15 @@
+package day2.mite;
+
+public class PrimeNumber {
+	
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int i,j;
+		  Scanner scan = new Scanner(System.in);
+        System.out.print("Enter the starting number  :\n");
+        start = scan.nextInt();
+
+	}
+
+}
