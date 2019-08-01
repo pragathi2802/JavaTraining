@@ -16,7 +16,7 @@ public class Manage {
 		Manage man=new Manage();
 		man.insert(m);
 		man.insert(f);
-		man.insert(b);
+		man.insert(b);      
 		man.insert(m);
 		pos=0;
 		man.search("Python");
